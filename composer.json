@@ -1,0 +1,13 @@
+{
+  "name": "enovatedesign/fake",
+  "type": "craft-plugin",
+  "authors": [
+        {
+            "name": "Mike Pepper",
+            "email": "mike.pepper@enovate.co.uk"
+        }
+    ],
+  "require": {
+    "fzaninotto/faker": "dev-master"
+  }
+}
