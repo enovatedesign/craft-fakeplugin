@@ -6,11 +6,6 @@ class FakeVariable
 
     protected $faker;
 
-    public function __construct()
-    {
-        $this->factory();
-    }
-
     public function factory($locale=null)
     {
 
