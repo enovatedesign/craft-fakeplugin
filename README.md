@@ -7,7 +7,11 @@ Usage
 -----
 
 ```
+{# create a new factory for the current locale #}
 {% set fake = craft.fake.factory %}
+
+{# or explicitly pass one in #}
+{% set fake = craft.fake.factory('en_GB') %}
 
 {{ fake.address }}
 
