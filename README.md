@@ -3,6 +3,11 @@ Fake
 
 A Craft plugin that wraps https://github.com/fzaninotto/Faker
 
+Installation
+------------
+
+Clone or unzip this repository into a `'fake'` directory in your Craft plugins directory, then enable from the plugin settings page.
+
 Usage
 -----
 
